@@ -49,3 +49,24 @@ h1 {
 .github {
     background-image: url("/img/github.jpg");
 }
+
+.linkBlock {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    opacity: 0.8;
+    margin-top: 33px;
+}
+
+.linkBlock a {
+    padding: 0 0 0 10px;
+}
+
+.linkIcon {
+    height: 33px;
+    opacity: 1;
+}
+
+.linkIcon:hover {
+    opacity: 0.5;
+}
