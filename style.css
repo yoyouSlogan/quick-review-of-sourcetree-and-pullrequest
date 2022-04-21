@@ -39,15 +39,15 @@ h1 {
 }
 
 .sourcetree {
-    background-image: url("/img/sourcetree.jpg");
+    background-image: url("img/sourcetree.jpg");
 }
 
 .git {
-    background-image: url("/img/git.jpg");
+    background-image: url("img/git.jpg");
 }
 
 .github {
-    background-image: url("/img/github.jpg");
+    background-image: url("img/github.jpg");
 }
 
 .linkBlock {
